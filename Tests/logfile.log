@@ -1,0 +1,22 @@
+2021-07-12 15:39:36,941 : INFO : test_verifyItems : validating item count
+2021-07-13 17:33:07,316 : INFO : verifyItemCount : Items are equal shop page are equal to cart Page
+2021-07-13 17:36:21,541 : INFO : test_verifyItems : Test_VerifyItemsInCart Run Successfully
+2021-07-13 17:38:45,279 : INFO : test_verifyItems : Test_VerifyItemsInCart Run Successfully
+2021-07-13 17:42:34,502 : INFO : test_errorValidation : Test_ErrorValidation Run Successfully
+2021-07-13 17:42:45,036 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:42:51,867 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:42:51,867 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:43:12,589 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:43:12,589 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:43:12,589 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:43:23,695 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:43:23,695 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:43:23,695 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:43:23,695 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:43:31,080 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:43:31,080 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:43:31,080 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:43:31,080 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:43:31,080 : INFO : test_successMessageSubmission : Test_SuccessfulSubmission Run Successfully
+2021-07-13 17:43:37,287 : INFO : test_verifyItems : Test_VerifyItemsInCart Run Successfully
+2021-07-13 17:43:45,356 : INFO : test_calculateItems : Test_ComputeTotalValues Run Successfully
